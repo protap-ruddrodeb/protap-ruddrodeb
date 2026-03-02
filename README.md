@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Protap Ruddrodeb Sarker</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer</h3>
 
-- 👨‍💻 Linkedin https://www.linkedin.com/in/isruddro/
+- 👨‍💻 Linkedin https://www.linkedin.com/in/protap-ruddrodeb
 
 - 💬 Ask me about **DSA, CSS, Angular, .NET**
 
